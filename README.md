@@ -25,6 +25,7 @@ ugh
 - http://ftp.lip6.fr/pub/mach/mach4/mach/lites/
 - http://ftp.lip6.fr/pub/mach/mach4/mach/
 - https://www.cs.utah.edu/flux/lites/html/
+- https://www.cs.utah.edu/flux/lites/html/lites-info.html
 - https://www.cs.utah.edu/flux/oldsite.html
 - https://www.cs.utah.edu/flux/oldproj.html
 - https://www.cs.utah.edu/flux/mach4/html/Mach4-proj.html
